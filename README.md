@@ -25,3 +25,10 @@ A ROS2-based automation project where turtles are continuously spawned and intel
 ros2 run turtlesim turtlesim_node
 ros2 run turtle_catch spawner_node
 ros2 run turtle_catch controller_node
+
+
+## 👨‍💻 Author
+
+**Shrinath Makone**  
+🔗 GitHub: https://github.com/shrinathmakone  
+🔗 LinkedIn: (your linkedin profile link)

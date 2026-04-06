@@ -31,4 +31,4 @@ ros2 run turtle_catch controller_node
 
 **Shrinath Makone**  
 🔗 GitHub: https://github.com/shrinathmakone  
-🔗 LinkedIn: (your linkedin profile link)
+🔗 LinkedIn: (www.linkedin.com/in/shrinath-makone)
